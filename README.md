@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Ancien sapeur-pompier de Paris, en reconversion vers l’IT avec une approche rigoureuse, structurée et orientée compréhension.
+  Ancien sapeur-pompier de Paris, en reconversion vers l’IT avec une approche rigoureuse, structurée.
 </p>
 
 <p align="center">
