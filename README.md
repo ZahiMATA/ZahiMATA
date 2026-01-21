@@ -45,7 +45,7 @@
   </li>
 </ul>
 
-<p><i>Astuce recruteur :</i> ces dépôts sont épinglés sur mon profil.</p>
+<p><i>:</i> ces dépôts sont épinglés sur mon profil.</p>
 
 <hr/>
 
