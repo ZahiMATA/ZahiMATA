@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Ancien sapeur-pompier de Paris, en reconversion vers l’IT avec une approche rigoureuse, structurée.
+  Étudiant à l’École 42, en formation informatique par projets, avec une approche rigoureuse et autonome.
 </p>
 
 <p align="center">
