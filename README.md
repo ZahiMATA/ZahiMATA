@@ -18,7 +18,8 @@
 </p>
 
 <p align="center">
-  📫 <a href="mailto:matazahi0317@gmail.com">matazahi0317@gmail.com</a> • 🌐 <a href="[www.linkedin.com/in/zahi-mata](https://www.linkedin.com/in/zahi-mata/)"</a>
+  📫 <a href="mailto:matazahi0317@gmail.com">matazahi0317@gmail.com</a> • 
+  🌐 <a href="https://www.linkedin.com/in/zahi-mata/">linkedin.com/in/zahi-mata</a>
 </p>
 
 <hr/>
