@@ -34,20 +34,20 @@
 
 <ul>
   <li>
-    <b><a href="https://github.com/ZahiMATA/Log-Analysis-Basics">Log Analysis Basics – Linux auth.log</a></b><br/>
+    <b><a href="https://github.com/ZahiMATA/Log-analysis-basics">Log Analysis Basics – Linux auth.log</a></b><br/>
     → analyse de logs Linux (SSH, sudo), identification d’activités normales et suspectes,<br/>
     → raisonnement structuré (observation → compréhension → action), approche terrain junior
   </li>
   <li>
-    <b><a href="https://github.com/ZahiMATA/cub3D">Cub3D</a></b> (projet en équipe)<br/>
+    <b><a href="https://github.com/ZahiMATA/42_Cube3d">Cub3D</a></b> (projet en équipe)<br/>
     → moteur 3D par raycasting en C (MiniLibX), rendu graphique, maths, optimisation
   </li>
   <li>
-    <b><a href="https://github.com/ZahiMATA/minishell">Minishell</a></b><br/>
+    <b><a href="https://github.com/ZahiMATA/42_MiniShell">Minishell</a></b><br/>
     → implémentation d’un shell Unix : parsing, pipes, redirections, processus, signaux
   </li>
   <li>
-    <b><a href="https://github.com/ZahiMATA/philosophers">Philosophers</a></b><br/>
+    <b><a href="https://github.com/ZahiMATA/42_Philosophers">Philosophers</a></b><br/>
     → multithreading en C : mutex, synchronisation, gestion du temps, conditions de course
   </li>
 </ul>
