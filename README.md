@@ -60,17 +60,20 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <h3>Systèmes & Linux</h3>
+    <td valign="top" width="33%">
+      <h3>Systèmes & Linux (avec C)</h3>
       <ul>
         <li>Utilisation quotidienne de Linux (CLI)</li>
         <li>Compréhension des processus et services</li>
-        <li>Lecture et analyse de logs système</li>
-        <li>Diagnostic simple d’incidents</li>
-        <li>C (gestion mémoire, threads, erreurs)</li>
+        <li>Gestion des permissions et utilisateurs</li>
+        <li>Diagnostic simple d’incidents système</li>
+        <li>Programmation en <b>C</b> (bas niveau)</li>
+        <li>Gestion mémoire (<code>malloc</code>, <code>free</code>, leaks)</li>
+        <li>Threads, mutex, synchronisation</li>
+        <li>Débogage et analyse d’erreurs</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <h3>Réseaux (bases solides)</h3>
       <ul>
         <li>TCP/IP, ports, protocoles</li>
@@ -80,23 +83,20 @@
         <li>Modèle OSI (vision globale)</li>
       </ul>
     </td>
+    <td valign="top" width="33%">
+      <h3>Analyse de logs (Linux)</h3>
+      <ul>
+        <li>Lecture et interprétation de <code>auth.log</code></li>
+        <li>Analyse des connexions SSH (succès / échecs)</li>
+        <li>Identification d’activités normales vs suspectes</li>
+        <li>Analyse des actions administratives (<code>sudo</code>)</li>
+        <li>Commandes : <code>cat</code>, <code>less</code>, <code>grep</code>, <code>tail</code></li>
+        <li>Raisonnement structuré et prudent (profil junior)</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
-<hr/>
-
-<h2>🧩 Compétences mises en pratique (Log Analysis)</h2>
-
-<ul>
-  <li>Lecture et interprétation de <b>auth.log</b></li>
-  <li>Identification de connexions SSH légitimes vs suspectes</li>
-  <li>Analyse d’actions administratives (sudo)</li>
-  <li>Utilisation de commandes Linux standard : <code>cat</code>, <code>less</code>, <code>grep</code>, <code>tail</code></li>
-  <li>Raisonnement structuré sans sur-interprétation</li>
-  <li>Proposition d’actions réalistes (surveillance, durcissement, escalade)</li>
-</ul>
-
-<hr/>
 
 <h2>📌 En cours d’apprentissage</h2>
 
