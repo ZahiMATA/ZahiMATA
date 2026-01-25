@@ -98,6 +98,7 @@
 </table>
 
 <hr/>
+<hr/>
 
 <h2>📌 En cours d’apprentissage</h2>
 
